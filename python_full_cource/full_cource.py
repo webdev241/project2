@@ -1,4 +1,4 @@
-# # what is python.
+ # what is python.
 # # python is interpreted, object oriented high-level programming language.
 
 # # frist hello world program in python.
